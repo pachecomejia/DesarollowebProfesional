@@ -7,9 +7,9 @@ Create table clientes(
 );
 
 
-insert into clientes(nombre,email) values ("Luis","luis@email.com");
-insert into clientes(nombre,email) values ("Gustabo","gustabo@email.com");
-insert into clientes(nombre,email) values ("Kevin","kevin@email.com");
+insert into clientes(nombre,email) values ("Luis","luis@icloud.com");
+insert into clientes(nombre,email) values ("Gustabo","gustabo@icloud.com");
+insert into clientes(nombre,email) values ("Kevin","kevin@icloud.com");
 
 
 Select * From clientes;
